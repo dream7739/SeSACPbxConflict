@@ -51,7 +51,7 @@
 		8832DA222CB4CCF500BAC95A /* SeSACPbxConflict */ = {
 			isa = PBXGroup;
 			children = (
-				8832DA312CB4D04300BAC95A /* Jm */,
+				8832DA322CB4D1B900BAC95A /* jm2 */,
 				8832DA292CB4CCF600BAC95A /* Preview Content */,
 			);
 			path = SeSACPbxConflict;
@@ -65,15 +65,15 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		8832DA312CB4D04300BAC95A /* Jm */ = {
+		8832DA322CB4D1B900BAC95A /* jm2 */ = {
 			isa = PBXGroup;
 			children = (
 				8832DA232CB4CCF500BAC95A /* SeSACPbxConflictApp.swift */,
 				8832DA252CB4CCF500BAC95A /* ContentView.swift */,
 				8832DA272CB4CCF600BAC95A /* Assets.xcassets */,
 			);
-			path = Jm;
-			sourceTree = "<group>";
+			path = jm2;
+            sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 

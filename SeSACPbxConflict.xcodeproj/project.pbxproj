@@ -73,7 +73,7 @@
 				8832DA272CB4CCF600BAC95A /* Assets.xcassets */,
 			);
 			path = jm2;
-			sourceTree = "<group>";
+            sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
